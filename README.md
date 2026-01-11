@@ -70,4 +70,4 @@ Establecer una **Línea Base** en las etapas tempranas, como se observa en el no
 
 **Sistema de Gestión de Restaurante**
 
-![Diagrama Línea Base Sistema de Gestión de Restaurante](img/restaurante.jpg)
+![Diagrama Línea Base Sistema de Gestión de Restaurante](img/restaurante1.png)
